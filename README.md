@@ -52,7 +52,7 @@ Once all inputs are collected, the data is sent to the Gemini AI model through a
 
 - 📷 Expo Image Picker (For Handwriting Image Upload)
 - 🔊 Expo Speech (For Listening to Analysis)
-- 📤 Expo Sharing (For Sharing Analysis)
+- 📤 Expo Sharing (For Sharing Analysis Report)
 - 🔍 Markdown to Text & Marked (For Formatting Analysis Output)
 
 ---
