@@ -41,7 +41,6 @@ Once all inputs are collected, the data is sent to the Gemini AI model through a
 - 📊 React Native Chart Kit (Graphs & Charts)
 - 📝 React Native Markdown Display
 - ⚡ React Native Flash Message
-- 🖌️ React Native SVG
 - 🔗 Axios (API Requests)
 
 ### **Backend (FastAPI & Gemini API) ⚡**
