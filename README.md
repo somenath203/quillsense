@@ -36,7 +36,7 @@ Once all inputs are collected, the data is sent to the Gemini AI model through a
 - ⚛️ React Native
 - 🚀 Expo
 - 🔄 Zustand (State Management)
-- 🎨 Tailwind CSS (Styling)
+- 🎨 NativeWind (Styling)
 - 🎭 Lottie for Animations
 - 📊 React Native Chart Kit (Graphs & Charts)
 - 📝 React Native Markdown Display
