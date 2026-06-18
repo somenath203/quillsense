@@ -8,7 +8,7 @@ load_dotenv()
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
 
-image_analysis_model = genai.GenerativeModel('gemini-1.5-flash')
+image_analysis_model = genai.GenerativeModel('gemini-3.1-flash-lite')
 
 
 def analyze_handwriting(img):
